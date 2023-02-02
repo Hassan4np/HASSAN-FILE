@@ -1,0 +1,102 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+nav img {
+    width: 60px;
+    height: 60px
+}
+
+
+/*             
+.navber .nav-item {
+padding: 5px 5px;
+font-size: 30px;
+font-weight: 600;
+color: wheat;
+font-family: 'Poppins', sans-serif;
+} */
+
+ul li a {
+    margin-left: 2px;
+    border-radius: 8px;
+}
+
+ul li a {
+    font-size: 18px;
+    font-weight: 600;
+    color: #000;
+    opacity: .8;
+    padding: 11px 10px;
+}
+
+ul li a:hover {
+    color: rgba(255, 255, 255, 0.144);
+}
+
+.section1 .img-minu {
+    background-image: url(img/Hassan.jpeg);
+    height: 500px;
+    width: 550px;
+}
+
+.section1 .text {
+    margin-left: 30px;
+    line-height: 25px;
+    color: #140b0bb4;
+    font-size: 15px;
+}
+
+.section1 .text1 {
+    margin-left: 30px;
+    margin-top: 20px;
+    font-size: 26px;
+}
+
+.section2 p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 14px;
+    line-height: 28px;
+    color: #5c4e4e;
+    margin-top: -22px;
+}
+
+.progress {
+    margin-top: -15px;
+}
+
+.section2 h1 {
+    margin-bottom: 30px;
+}
+
+.section4 img {
+    margin-left: 22px;
+}
+
+.section4 p {
+    margin-left: 30px;
+    line-height: 25px;
+    color: #140b0bb4;
+    font-size: 15px;
+}
+
+.section4 .skills {
+    line-height: 25px;
+    color: #140b0bb4;
+    font-size: 15px;
+}
+
+section4 .skills {
+    margin-left: 30px;
+    line-height: 25px;
+    color: #140b0bb4;
+    font-size: 15px;
+}
+
+.section4 h5 {
+    margin-left: 30px;
+}
